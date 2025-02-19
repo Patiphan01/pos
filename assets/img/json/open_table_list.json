@@ -1,0 +1,88 @@
+{
+
+    "table": [
+        {
+            "items": [
+                {
+                    "name": "q",
+                    "id": "72"
+                },
+                {
+                    "name": "1",
+                    "id": "33"
+                }
+            ],
+            "zone": "Queue",
+            "id": "6",
+            "non_service_charge": false,
+            "non_vat": false
+        },
+        {
+            
+            "items": [
+                {
+                    "name": "1",
+                    "id": "9"
+                },
+                {
+                    "name": "2",
+                    "id": "30"
+                },
+                {
+                    "name": "3",
+                    "id": "63"
+                },
+                {
+                    "name": "4",
+                    "id": "56"
+                },
+                {
+                    "name": "5",
+                    "id": "66"
+                },
+                {
+                    "name": "6",
+                    "id": "57"
+                },
+                {
+                    "name": "7",
+                    "id": "58"
+                }
+            ],
+            "zone": "Zone A",
+            "id": "4",
+            "non_service_charge": false,
+            "non_vat": true
+        },
+       
+        {
+            "items": [
+                {
+                    "name": "1",
+                    "id": "67"
+                },
+                {
+                    "name": "2",
+                    "id": "68"
+                },
+                {
+                    "name": "3",
+                    "id": "69"
+                },
+                {
+                    "name": "4",
+                    "id": "70"
+                },
+                {
+                    "name": "5",
+                    "id": "71"
+                }
+            ],
+            "zone": "Zone B",
+            "id": "5",
+            "non_service_charge": false,
+            "non_vat": false
+        }
+ 
+    ]
+}

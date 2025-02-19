@@ -1,0 +1,68 @@
+{
+    "status": 200,
+    "update_hash": "-4107048914538984262",
+    "status_msg": "OK",
+    "update_datetime": "2024-12-20T07:12:43.109728",
+    "datas": [
+        {
+            "status": [
+                "PAY"
+            ],
+            "name": "Table 1",
+            "table_zone": "Zone B",
+            "table_name": "1",
+            "captain_count": 1,
+            "split_count": 1
+        },
+        {
+            "status": [
+                "ORD"
+            ],
+            "name": "Table 2",
+            "table_zone": "Zone B",
+            "table_name": "2",
+            "captain_count": 1,
+            "split_count": 1
+        },
+        {
+            "status": [
+                "ORD"
+            ],
+            "name": "Table 5",
+            "table_zone": "Zone A",
+            "table_name": "5",
+            "captain_count": 1,
+            "split_count": 1
+        },
+        {
+            "status": [
+                "ORD"
+            ],
+            "name": "Zone A 2",
+            "table_zone": "Zone A",
+            "table_name": "2",
+            "captain_count": 1,
+            "split_count": 1
+        },
+        {
+            "status": [
+                "PAY"
+            ],
+            "name": "Zone A 3",
+            "table_zone": "Zone A",
+            "table_name": "3",
+            "captain_count": 1,
+            "split_count": 1
+        },
+        {
+            "status": [
+                "ORD"
+            ],
+            "name": "Zone A 7",
+            "table_zone": "Zone A",
+            "table_name": "7",
+            "captain_count": 1,
+            "split_count": 1
+        }
+    ]
+}

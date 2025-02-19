@@ -1,6 +1,6 @@
 {
-    "name": "pos",
-    "short_name": "pos",
+    "name": "aotshop",
+    "short_name": "aotshop",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

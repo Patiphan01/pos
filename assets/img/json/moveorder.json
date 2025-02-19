@@ -1,0 +1,21 @@
+{
+    "staff": {
+    
+        "id": "2",
+        "name": "Manager"
+      
+    },
+    "data": {
+        "items": [
+            {
+                "id": "2312",
+                "amount": 1
+            }
+        ],
+        "table": {
+            "name": "4",
+            "split": 0,
+            "zone": "table"
+        }
+    }
+    }
